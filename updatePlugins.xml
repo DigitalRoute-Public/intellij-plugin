@@ -1,3 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+  <plugin id="com.digitalroute.mediationplugin" url="https://github.com/DigitalRoute-Public/intellij-plugin/releases/download/mz-intellij-plugin-1.0.0/mediation-plugin-1.0.0-signed.zip" version="1.0.0">
+    <idea-version since-build="252" />
+    <name>DigitalRoute</name>
+  </plugin>
 </plugins>
